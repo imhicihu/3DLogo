@@ -1,5 +1,5 @@
 ### Rationale
-3D reoresentation of CONICET logo
+3D representation of CONICET logo
 
 ### Model
 ![image](https://github.com/imhicihu/3DLogo/blob/1b14fbdbca26df10835bdc27e2cb9634db3a72b7/images/Screenshot.png)
